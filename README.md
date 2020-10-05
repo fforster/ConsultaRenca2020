@@ -1,6 +1,6 @@
 # Consulta Renca 2020
 
-### Datos y análisis del experimento realizado por un grupo de investigadores del Centro de Modelamiento Matemático durante la Consulta Ciudadana 2020 en la comuna de Renca usando el método Juicio Mayoritario (Majority Judgment, [Balinski & Laraki, 2011](https://mitpress.mit.edu/books/majority-judgment)).
+### Datos y análisis del experimento realizado por un grupo de investigadores del Centro de Modelamiento Matemático durante la [Consulta Ciudadana 2019](https://es.wikipedia.org/wiki/Consulta_ciudadana_de_Chile_de_2019) en la comuna de Renca usando el método Juicio Mayoritario (Majority Judgment, [Balinski & Laraki, 2011](https://mitpress.mit.edu/books/majority-judgment)).
 
 ### El resultado principal es una evaluación y ordenamiento de las demandas sociales utilizando la metodología de juicio mayoritario, un método más expresivo y resistente al voto estratégico que otras formas de ordenamiento.
 
