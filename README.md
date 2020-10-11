@@ -4,7 +4,7 @@
 
 ### El resultado principal es una evaluación y ordenamiento de las demandas sociales utilizando la metodología de juicio mayoritario, un método más expresivo y resistente al voto estratégico que otras formas de ordenamiento.
 
-![figura](https://raw.githubusercontent.com/fforster/ConsultaRenca2020/main/plots/demandas_desc_all_50.png?token=ABG24DDVVVZEDV6QV7OB37K7QSOVS)
+![figura](https://raw.githubusercontent.com/fforster/ConsultaRenca2020/main/demandas_desc_all_50.png?token=ABG24DDVVVZEDV6QV7OB37K7QSOVS)
 
 ### Para mayor información mirar este [informe preliminar](http://www.cmm.uchile.cl/?p=37308) y el notebook [ConsultaRenca2020.ipynb](https://github.com/fforster/ConsultaRenca2020/blob/main/ConsultaRenca2020.ipynb).
 
